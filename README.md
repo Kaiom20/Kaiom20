@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaiom20&show_icons=true&theme=transparent&title_color=d9aa1e&text_color=ffffff&icon_color=d9aa1e&hide_border=true&bg_color=#0d1117" alt="Kaio Márcio github stats" /><img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiom20&layout=compact&theme=transparent&title_color=d9aa1e&text_color=ffffff&icon_color=d9aa1e&hide_border=true&bg_color=#0d1117" />
+<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaiom20&show_icons=true&theme=moltack&title_color=800020&text_color=654321&icon_color=800020&hide_border=true&bg_color=#0d1117" alt="Kaio Márcio github stats" /><img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiom20&layout=compact&theme=moltack&title_color=800020&text_color=654321&icon_color=800020&hide_border=true&bg_color=#0d1117" />
 
 
 <div style="display: inline_block"><br>
