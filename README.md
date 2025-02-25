@@ -2,8 +2,10 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76A6DD&height=120&section=header"/>
 
-<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaiom20&show_icons=true&theme=moltack&title_color=800020&text_color=654321&icon_color=800020&hide_border=true&bg_color=#0d1117" alt="Kaio Márcio github stats" /><img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiom20&layout=compact&theme=moltack&title_color=800020&text_color=654321&icon_color=800020&hide_border=true&bg_color=#0d1117" />
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaiom20&show_icons=true&count_private=true&hide_border=true&title_color=3d85c6&icon_color=3d85c6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Kaio Márcio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiom20&layout=compact&hide_border=true&title_color=3d85c6&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
