@@ -1,8 +1,11 @@
 ## Hi there 👋
 
+<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaiom20&show_icons=true&theme=transparent&title_color=d9aa1e&text_color=ffffff&icon_color=d9aa1e&hide_border=true&bg_color=#0d1117" alt="Kaio Márcio github stats" /><img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiom20&layout=compact&theme=transparent&title_color=d9aa1e&text_color=ffffff&icon_color=d9aa1e&hide_border=true&bg_color=#0d1117" />
+
+##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kaio-C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg"></img>
 </div>
 
