@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Kaio
+## <span style="color: red;">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=45&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+vindo+ao+meu+perfil!;Hello,+Welcome+to+My+Profile!+;)](https://git.io/typing-svg)</span>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76A6DD&height=120&section=header"/>
 
