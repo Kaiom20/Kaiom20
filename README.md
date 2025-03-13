@@ -1,6 +1,6 @@
 ## <span style="color: red;">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=45&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+vindo+ao+meu+perfil!;Hello,+Welcome+to+My+Profile!+;)](https://git.io/typing-svg)</span>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77DD77&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77DD77&text=Welcome&height=120&section=header&fontColor=ffff"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaiom20&show_icons=true&count_private=true&hide_border=true&title_color=77DD77&icon_color=77DD77&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Kaio Márcio github stats" /> 
