@@ -15,7 +15,7 @@
 </picture>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaiom20&bg_color=000000&color=77DD77&line=77DD77&point=77DD77&area=true&hide_border=true)](https://github.com/Kaiom20/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaiom20&bg_color=000000&color=77DD77&line=800080&point=800080&area=true&hide_border=true)](https://github.com/Kaiom20/github-readme-activity-graph)
 ___
 
 <div align="center"> 
@@ -25,13 +25,13 @@ ___
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77DD77&height=120&section=footer"/>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg"></img>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="30"/>
+  <img src="https://devicon-website.vercel.app/api/c/original.svg" width="40" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30"/>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77DD77&height=120&section=footer"/>
