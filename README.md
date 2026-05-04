@@ -7,6 +7,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiom20&layout=compact&hide_border=true&title_color=77DD77&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
+</picture>
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaiom20&bg_color=000000&color=77DD77&line=77DD77&point=77DD77&area=true&hide_border=true)](https://github.com/Kaiom20/github-readme-activity-graph)
 ___
 
