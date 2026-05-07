@@ -15,7 +15,7 @@
 </picture>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaiom20&bg_color=000000&color=77DD77&line=800080&point=800080&area=true&hide_border=true)](https://github.com/Kaiom20/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaiom20&bg_color=transparent&color=77DD77&line=800080&point=800080&area=true&hide_border=true)](https://github.com/Kaiom20/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kaiom20&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
