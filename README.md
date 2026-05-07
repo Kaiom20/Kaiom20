@@ -3,8 +3,10 @@
 ## <span style="color: red;">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Profile!+;)](https://git.io/typing-svg)</span>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaiom20&show_icons=true&count_private=true&hide_border=true&title_color=77DD77&icon_color=77DD77&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Kaio Márcio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiom20&layout=compact&hide_border=true&title_color=77DD77&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" height="195px"
+  src="https://github-readme-stats.vercel.app/api?username=Kaiom20&show_icons=true&cache_seconds=1800&hide_border=true&title_color=77DD77&icon_color=77DD77&text_color=c9d1d9&bg_color=transparent&rank_icon=github"/>
+<img width="41%" height="195px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiom20&layout=compact&hide_border=true&title_color=77DD77&text_color=c9d1d9&bg_color=transparent"/>
 </div>
 
 
